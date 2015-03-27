@@ -17,15 +17,16 @@ the developer thinks "you need". All the basic stuff to get you started with you
 
 ## How to Use
 1. Clone this repo.
-2. Checkout to your frameworks of choice: `$ git checkout <branch>`. Currently supported styles are:
+2. Checkout to your frameworks of choice: `$ git checkout <branch>`. See the available frameworks below.
+3. Run `npm install`.
+4. Remove `.git`
+
+Currently supported styles are:
 
 | Branch       | Frameworks                                                             |
 | ------------ | ---------------------------------------------------------------------- |
 | `master`     | [Bootstrap](http://getbootstrap.com) + [jQuery](http://jquery.com)     |
 | `foundation` | [Foundation](http://foundation.zurb.com) + [jQuery](http://jquery.com) |
-
-3. Run `npm install`.
-4. Remove `.git`
 
 ## License
 GNU GPLv3. See LICENSE for details.
