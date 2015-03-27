@@ -24,8 +24,27 @@
         };
 
         gulp.src([
+            "lib/modernizr/modernizr.js",
             "lib/jquery/dist/jquery.js",
-            "lib/bootstrap-sass/assets/javascripts/bootstrap.js",
+            "lib/jquery-placeholder/jquery.placeholder.js",
+            "lib/fastclick/lib/fastclick.js",
+            "lib/foundation/js/foundation/foundation.js",
+            "lib/foundation/js/foundation/foundation.abide.js",
+            "lib/foundation/js/foundation/foundation.accordion.js",
+            "lib/foundation/js/foundation/foundation.alert.js",
+            "lib/foundation/js/foundation/foundation.clearing.js",
+            "lib/foundation/js/foundation/foundation.dropdown.js",
+            "lib/foundation/js/foundation/foundation.equalizer.js",
+            "lib/foundation/js/foundation/foundation.interchange.js",
+            "lib/jquery.cookie/jquery.cookie.js", "lib/foundation/js/foundation/foundation.joyride.js",
+            "lib/foundation/js/foundation/foundation.magellan.js",
+            "lib/foundation/js/foundation/foundation.offcanvas.js",
+            "lib/foundation/js/foundation/foundation.orbit.js",
+            "lib/foundation/js/foundation/foundation.reveal.js",
+            "lib/foundation/js/foundation/foundation.slider.js",
+            "lib/foundation/js/foundation/foundation.tab.js",
+            "lib/foundation/js/foundation/foundation.tooltip.js",
+            "lib/foundation/js/foundation/foundation.topbar.js",
             "app/js/src/**/*.js"
         ])
             .pipe(utils.concat("script.min.js"))
