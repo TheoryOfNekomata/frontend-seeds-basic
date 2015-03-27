@@ -1,0 +1,37 @@
+{
+  "name": "frontend-seeds-basic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTML + CSS + JS seeds. Perfect for Web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Temoto-kun/frontend-seeds-basic.git"
+  },
+  "keywords": [
+    "seed",
+    "front-end",
+    "UI",
+    "HTML",
+    "CSS",
+    "SASS"
+  ],
+  "author": "Temoto-kun",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/Temoto-kun/frontend-seeds-basic/issues"
+  },
+  "homepage": "https://github.com/Temoto-kun/frontend-seeds-basic",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-minify-html": "^1.0.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.3.3",
+    "gulp-uglify": "^1.1.0",
+    "gulp-uglifycss": "^1.0.4"
+  }
+}
