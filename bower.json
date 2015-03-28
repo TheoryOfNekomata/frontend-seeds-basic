@@ -5,7 +5,7 @@
   "authors": [
     "Allan Crisostomo <kiiroifuriku@hotmail.com>"
   ],
-  "description": "HTML + CSS + JS seeds. Perfect for Web apps.",
+  "description": "HTML + CSS + JS seeds. Perfect for Web anything.",
   "main": "gulpfile.js",
   "license": "GNU GPLv3",
   "private": true,
