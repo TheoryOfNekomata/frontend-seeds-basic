@@ -1,0 +1,30 @@
+{
+  "name": "frontend-seeds-basic",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Temoto-kun/frontend-seeds-basic",
+  "authors": [
+    "Allan Crisostomo <kiiroifuriku@hotmail.com>"
+  ],
+  "description": "HTML + CSS + JS seeds. Perfect for Web anything.",
+  "main": "gulpfile.js",
+  "license": "GNU GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "app/tests"
+  ],
+  "keywords": [
+    "seed",
+    "front-end",
+    "UI",
+    "HTML",
+    "CSS",
+    "SASS"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "jquery": "~2.1.3"
+  }
+}
