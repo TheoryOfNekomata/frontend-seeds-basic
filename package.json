@@ -2,7 +2,7 @@
   "name": "frontend-seeds-basic",
   "version": "1.0.0",
   "private": true,
-  "description": "HTML + CSS + JS seeds. Perfect for Web apps",
+  "description": "HTML + CSS + JS seeds. Perfect for Web apps.",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
@@ -19,7 +19,7 @@
     "CSS",
     "SASS"
   ],
-  "author": "Temoto-kun",
+  "author": "Allan Crisostomo <kiiroifuriku@hotmail.com>",
   "license": "GNU GPLv3",
   "bugs": {
     "url": "https://github.com/Temoto-kun/frontend-seeds-basic/issues"
