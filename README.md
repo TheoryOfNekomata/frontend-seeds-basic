@@ -20,7 +20,7 @@ the developer thinks "you need". All the basic stuff to get you started with you
 2. Checkout to your frameworks of choice: `$ git checkout <branch>`. See the available frameworks below.
 3. Run `npm install`.
 4. Run `bower install`.
-4. Remove `.git`
+5. Remove `.git`
 
 Currently supported styles are:
 
