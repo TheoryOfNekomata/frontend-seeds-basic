@@ -101,3 +101,5 @@ crashlytics-build.properties
 ## frontend-seeds-basic
 app/build/
 lib/
+index.htm
+index.html
